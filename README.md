@@ -1,8 +1,7 @@
-## Hello there :wave:
-Hello, I'am ArikHn aka (Arik Hardiansyah Nugraha). I'am 20 years old, I'am very much like to learning these Programming Language: **Java**, **C#**, and **PHP**.
+## Selamat Datang :wave:
+Halo, saya ArikHn alias (Arik Hardiansyah Nugraha).
 
-- My Website: [ArikHn](https://www.arikhn.xyz)
-- My Nexusmods Profile: [ArikHn](https://www.nexusmods.com/users/77013103)
+- My Website: [https://www.arikhn.xyz](https://www.arikhn.xyz)
 
 ![ArikHn's github stats](https://github-readme-stats.vercel.app/api?username=ArikHn&include_all_commits=true&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArikHn&layout=compact)
