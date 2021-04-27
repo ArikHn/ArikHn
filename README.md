@@ -9,7 +9,7 @@ My name is Arik Hardiansyah Nugraha, I'm a programmer and a modder, I'm from Ind
 ![](https://img.shields.io/badge/SublimeText-informational?style=flat-square&logo=sublime-text&logoColor=white&color=00AEFF)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=00AEFF)
 ![](https://img.shields.io/badge/Gradle-informational?style=flat-square&logo=gradle&logoColor=white&color=00AEFF)
-![](https://img.shields.io/badge/Maven-informational?style=flat-square&logo=maven&logoColor=white&color=00AEFF)
+![](https://img.shields.io/badge/Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=00AEFF)
 ![](https://img.shields.io/badge/Composer-informational?style=flat-square&logo=composer&logoColor=white&color=00AEFF)
 ![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=white&color=00AEFF)
 
@@ -23,6 +23,14 @@ My name is Arik Hardiansyah Nugraha, I'm a programmer and a modder, I'm from Ind
 ![](https://img.shields.io/badge/Golang-informational?style=flat-square&logo=go&logoColor=white&color=00AEFF)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=00AEFF)
 ![](https://img.shields.io/badge/CSharp-informational?style=flat-square&logo=c-sharp&logoColor=white&color=00AEFF)
+
+## :toolbox: Framework
+
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=00AEFF)
+![](https://img.shields.io/badge/CodeIgniter-informational?style=flat-square&logo=codeigniter&logoColor=white&color=00AEFF)
+![](https://img.shields.io/badge/Hexo-informational?style=flat-square&logo=hexo&logoColor=white&color=00AEFF)
+![](https://img.shields.io/badge/Hugo-informational?style=flat-square&logo=hugo&logoColor=white&color=00AEFF)
+![](https://img.shields.io/badge/Jekyll-informational?style=flat-square&logo=jekyll&logoColor=white&color=00AEFF)
 
 ## &#x1f4c8; Github Stats
 
