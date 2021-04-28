@@ -38,7 +38,7 @@ My name is Arik Hardiansyah Nugraha, I'm a programmer and a modder, I'm from Ind
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArikHn&hide=html,tex,css,scss&&title_color=00AEFF&text_color=333&icon_color=00AEFF&bg_color=fffefe" />
 </a>
 <a href="https://github.com/ArikHn/ArikHn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArikHn&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=00AEFF&text_color=333&icon_color=00AEFF&bg_color=fffefe" alt="ArikHn's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArikHn&show_icons=true&line_height=27&count_private=true&title_color=00AEFF&text_color=333&icon_color=00AEFF&bg_color=fffefe" alt="ArikHn's GitHub Stats" />
 </a>
 
 
