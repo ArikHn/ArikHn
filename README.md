@@ -1,6 +1,6 @@
 # Hello, bro! <img src="https://raw.githubusercontent.com/ArikHn/ArikHn/master/wave.gif" width="30px">
 
-My name is Arik Hardiansyah Nugraha, I'm a programmer and a modder, I'm from Indonesia, living in Kota Bandung.
+I'm Arik, an Developer and Modder :rocket: from Kota Bandung, Indonesia.
 
 ## :gear: Operating System and Tools
 
@@ -34,13 +34,15 @@ My name is Arik Hardiansyah Nugraha, I'm a programmer and a modder, I'm from Ind
 
 ## &#x1f4c8; Github Stats
 
+<details>
+<summary> View </summary>
 <a href="https://github.com/ArikHn/ArikHn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArikHn&hide=html,tex,css,scss&&title_color=00AEFF&text_color=333&icon_color=00AEFF&bg_color=fffefe" />
 </a>
 <a href="https://github.com/ArikHn/ArikHn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArikHn&show_icons=true&line_height=27&count_private=true&title_color=00AEFF&text_color=333&icon_color=00AEFF&bg_color=fffefe" alt="ArikHn's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArikHn&show_icons=true&line_height=27&count_private=true&hide=prs,contribs,issues&include_all_commits=true&title_color=00AEFF&text_color=333&icon_color=00AEFF&bg_color=fffefe" alt="ArikHn's GitHub Stats" />
 </a>
-
+</details>
 
 <a href="https://github.com/ArikHn/mkdocs-templates">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArikHn&repo=mkdocs-templates&show_owner=true&title_color=00AEFF&text_color=333&icon_color=00AEFF&bg_color=fffefe" />
